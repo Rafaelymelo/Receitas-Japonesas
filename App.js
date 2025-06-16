@@ -9,7 +9,7 @@ const receitas = [
     description: 'Arroz temperado com peixe cru.',
     ingredients: 'Arroz, Vinagre de arroz, Nori, Peixe cru (salmão, atum)',
     method: 'Cozinhe o arroz, tempere, monte com peixe sobre a alga e enrole.',
-    image: require('./assets/sushi.jpg'),
+    image:(https:'//unsplash.com/pt-br/fotografias/sushi-japones'),
   },
   {
     id: '2',
@@ -17,7 +17,7 @@ const receitas = [
     description: 'Legumes e frutos do mar empanados e fritos.',
     ingredients: 'Camarão, Berinjela, Abóbora, Farinha, Água gelada',
     method: 'Misture a massa, empane os ingredientes e frite em óleo quente.',
-    image: require('./assets/tempura.jpg'),
+    image: require('https://unsplash.com/pt-br/fotografias/tempura'),
   },
   {
     id: '3',
@@ -25,7 +25,7 @@ const receitas = [
     description: 'Sopa japonesa com macarrão e caldo saboroso.',
     ingredients: 'Macarrão, Caldo de porco, Ovo, Alga, Cebolinha',
     method: 'Ferva o caldo, cozinhe o macarrão e monte os ingredientes no bowl.',
-    image: require('./assets/ramen.jpg'),
+    image: require('https://unsplash.com/pt-br/fotografias/ramen'),
   },
 ];
 

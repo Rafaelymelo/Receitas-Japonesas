@@ -9,7 +9,7 @@ const receitas = [
     description: 'Arroz temperado com peixe cru.',
     ingredients: 'Arroz, Vinagre de arroz, Nori, Peixe cru (salmão, atum)',
     method: 'Cozinhe o arroz, tempere, monte com peixe sobre a alga e enrole.',
-    image:(https:'//unsplash.com/pt-br/fotografias/sushi-japones'),
+    image:('https://unsplash.com/pt-br/fotografias/sushi-japones'),
   },
   {
     id: '2',

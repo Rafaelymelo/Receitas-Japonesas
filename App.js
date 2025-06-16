@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View,FlatList,Modal,Text,StyleSheet,Pressable,SafeAreaView,ScrollView } from 'react-native';
+import { View, FlatList, Modal, Text, StyleSheet, Pressable, SafeAreaView, ScrollView } from 'react-native';
 import RecipeCard from './componentes/RecipeCard';
 
 const receitas = [
